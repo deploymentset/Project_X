@@ -1,8 +1,0 @@
-1.  Create a terraform module for below services
-- AWS VPC
-- AWS Ec2 (as a bastion host)
-- AWS Subnets
-- AWS EKS
-- AWS Security Groups
-- NACLs
-- Testing branch
